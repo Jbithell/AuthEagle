@@ -1,0 +1,11 @@
+<script>
+function alertuser() {
+	$(document).ready(function() {
+		var audioElement = document.createElement('audio');
+		audioElement.setAttribute('src', '/sounds/' + '<?php echo mysqli_fetch_row(mysqli_query($conn,"SELECT sound FROM `dash_users` WHERE userid='" . $userid . "'"))[0]; ?>' + '.mp3');
+		audioElement.setAttribute('autoplay', 'autoplay');
+		//audioElement.load()
+		audioElement.play();
+	});
+}
+</script>

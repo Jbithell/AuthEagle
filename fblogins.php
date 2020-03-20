@@ -1,0 +1,4 @@
+<?php
+$FBAPPID = '';
+$FBAPPSECRET = '';
+?>

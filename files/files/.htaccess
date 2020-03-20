@@ -1,0 +1,4 @@
+Order deny,allow
+Deny from all
+
+ErrorDocument 403 '<center><h1>Sorry, you do not have access to this file</h1><i>This could be because of a problem with our server or because you are a hacker.</i><hr/><p>If you are not a hacker please contact <a href="mailto:support@autheagle.com?Subject=Trying%20to%20access%20file%20directly%20using%20https://files.autheagle.com/files/%20directory." target="_top">support@autheagle.com</a> and we would be delighted to help you!</p></center>'

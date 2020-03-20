@@ -1,0 +1,1 @@
+[27-May-2015 09:53:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'autheagle-prod-main-1.c4cxwfpn3aub.eu-west-1.rds.amazonaws.com' (110) in /home/jamesbithell/public_html/autheagle/sandbox/james/test.php on line 7

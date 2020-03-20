@@ -1,0 +1,1 @@
+[10-Jul-2015 09:59:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jamesbithell/public_html/autheagle/email.php on line 27

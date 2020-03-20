@@ -1,0 +1,11 @@
+[22-Apr-2015 19:42:52 UTC] PHP Notice:  Undefined index: message in /home/jamesbithell/public_html/autheagle/sandbox/james/2step/index.php on line 40
+[22-Apr-2015 19:42:55 UTC] PHP Notice:  Undefined index: username in /home/jamesbithell/public_html/autheagle/sandbox/james/2step/index.php on line 48
+[22-Apr-2015 19:43:04 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/jamesbithell/public_html/autheagle/sandbox/james/2step/twilio_lib/Services/Twilio.php:305
+Stack trace:
+#0 /home/jamesbithell/public_html/autheagle/sandbox/james/2step/twilio_lib/Services/Twilio.php(184): Base_Services_Twilio->_processResponse(Array)
+#1 /home/jamesbithell/public_html/autheagle/sandbox/james/2step/twilio_lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/jamesbithell/public_html/autheagle/sandbox/james/2step/twilio_lib/Services/Twilio/Rest/SmsMessages.php(16): Services_Twilio_ListResource->_create(Array)
+#3 /home/jamesbithell/public_html/autheagle/sandbox/james/2step/functions.php(41): Services_Twilio_Rest_SmsMessages->create('+15125551212', '447706014590', 'Your newly gene...')
+#4 /home/jamesbithell/public_html/autheagle/sandbox/james/2step/process.php(21): user_generate_token('test', '447706014590', 'sms')
+#5 {main}
+  thrown in /home/jamesbithell/public_html/autheagle/sandbox/james/2step/twilio_lib/Services/Twilio.php on line 305

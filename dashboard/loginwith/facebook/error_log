@@ -1,0 +1,15 @@
+[08-Apr-2015 15:30:54 UTC] PHP Notice:  Undefined variable: emailgot in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/facebook/index.php on line 1299
+[08-Apr-2015 15:30:54 UTC] PHP Notice:  Undefined variable: emailgot in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/facebook/index.php on line 1306
+[25-Apr-2015 17:10:06 UTC] PHP Notice:  Undefined variable: emailgot in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/facebook/index.php on line 1299
+[25-Apr-2015 17:10:06 UTC] PHP Notice:  Undefined variable: emailgot in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/facebook/index.php on line 1306
+[25-Apr-2015 17:10:15 UTC] CSRF state token does not match one provided.
+[25-Apr-2015 17:10:17 UTC] PHP Notice:  Undefined variable: emailgot in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/facebook/index.php on line 1299
+[25-Apr-2015 17:10:17 UTC] PHP Notice:  Undefined variable: emailgot in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/facebook/index.php on line 1306
+[26-Apr-2015 07:15:40 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:15:40 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:18:23 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:18:24 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:18:31 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:18:31 UTC] OAuthException: Error validating access token: The user has not authorized application 1421605351474051.
+[26-Apr-2015 07:18:31 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:18:36 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61

@@ -1,0 +1,18 @@
+[26-Apr-2015 07:26:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 5
+[26-Apr-2015 07:26:35 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:26:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 5
+[26-Apr-2015 07:26:39 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:26:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 5
+[26-Apr-2015 07:26:49 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:27:47 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:27:52 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[26-Apr-2015 07:28:08 UTC] PHP Notice:  Undefined index: credit in /home/jamesbithell/public_html/autheagle/dash_auth.php on line 61
+[08-Jul-2015 15:44:02 UTC] PHP Notice:  Undefined variable: db_hostname in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 21
+[08-Jul-2015 15:44:02 UTC] PHP Notice:  Undefined variable: db_username in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 21
+[08-Jul-2015 15:44:02 UTC] PHP Notice:  Undefined variable: db_password in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 21
+[08-Jul-2015 15:44:02 UTC] PHP Notice:  Undefined variable: db_database in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 21
+[08-Jul-2015 15:44:02 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jamesbithell'@'localhost' (using password: NO) in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 21
+[08-Jul-2015 15:44:06 UTC] PHP Notice:  Undefined index: oauth_token in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/lib/twitteroauth.php on line 114
+[08-Jul-2015 15:44:06 UTC] PHP Notice:  Undefined index: oauth_token_secret in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/lib/twitteroauth.php on line 114
+[08-Jul-2015 15:44:06 UTC] PHP Notice:  Undefined index: oauth_token in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 11
+[08-Jul-2015 15:44:06 UTC] PHP Notice:  Undefined index: oauth_token_secret in /home/jamesbithell/public_html/autheagle/dashboard/loginwith/twitter/index.php on line 11
